@@ -1,0 +1,22 @@
+{
+  "name": "discordtw-api",
+  "version": "1.0.0",
+  "description": "DiscordTW 3rd API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASAllenShih/discordtw-api.git"
+  },
+  "keywords": [
+    "DiscordTW"
+  ],
+  "author": "ASAllenShih",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASAllenShih/discordtw-api/issues"
+  },
+  "homepage": "https://github.com/ASAllenShih/discordtw-api#readme"
+}

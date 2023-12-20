@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ASAllenShih/discordtw-api/issues"
   },
-  "homepage": "https://github.com/ASAllenShih/discordtw-api#readme"
+  "homepage": "https://github.com/ASAllenShih/discordtw-api#readme",
+  "dependencies": {
+    "fix-esm": "^1.0.1",
+    "node-fetch": "^3.3.2"
+  }
 }
